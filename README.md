@@ -1,19 +1,26 @@
 # 🚀Excited to share SQL Challenge related to the OSCARS 2024 .
 
-Thankyou for sharing SQL Challenges Digits n Data and Nitish Kumar
 
-# Challenge overview:-The challenge is to craft SQL queries to extract insights from the OSCARS 2024.
+
+# Challenge overview:-
+
+The challenge is to craft SQL queries to extract insights from the OSCARS 2024.
 
 # Database Structure:
+
 The Challenge revolved around Three key tables within the database:
 1)Movies
 2)Nominees
 3)Winners
 
 # Software's used :-
+
 My SQL-for Query building & Analysis
 Microsoft PowerPoint:-For presentation
-# 🔗SQL-Challenge:-https://lnkd.in/gW6H4QtN
+
+# 🔗SQL-Challenge:
+
+https://lnkd.in/gW6H4QtN
 
 
 # Insights of the Project:
